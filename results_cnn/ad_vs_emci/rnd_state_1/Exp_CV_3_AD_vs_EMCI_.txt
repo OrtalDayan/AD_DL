@@ -1,0 +1,908 @@
+
+----------
+
+2018-04-26 23:59:42
+AD-EMCI
+
+Epoch 1 of 150 took 34.872s
+ training loss:		0.6977456
+ validation loss:		0.6916224
+ validation accuracy:		0.4000000
+ Pairwise ROC_AUCs:0.51
+
+Epoch 2 of 150 took 34.848s
+ training loss:		0.7020372
+ validation loss:		0.6924756
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.46
+
+Epoch 3 of 150 took 34.848s
+ training loss:		0.6911906
+ validation loss:		0.7006304
+ validation accuracy:		0.4500000
+ Pairwise ROC_AUCs:0.47
+
+Epoch 4 of 150 took 34.848s
+ training loss:		0.6947141
+ validation loss:		0.6980298
+ validation accuracy:		0.4500000
+ Pairwise ROC_AUCs:0.48
+
+Epoch 5 of 150 took 34.844s
+ training loss:		0.6873077
+ validation loss:		0.6912150
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.51
+
+Epoch 6 of 150 took 34.846s
+ training loss:		0.6794450
+ validation loss:		0.6898620
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.54
+
+Epoch 7 of 150 took 34.843s
+ training loss:		0.6966220
+ validation loss:		0.7003721
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.44999999999999996
+
+Epoch 8 of 150 took 34.844s
+ training loss:		0.6801819
+ validation loss:		0.6994508
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.43999999999999995
+
+Epoch 9 of 150 took 34.848s
+ training loss:		0.6714831
+ validation loss:		0.6993459
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.47
+
+Epoch 10 of 150 took 34.851s
+ training loss:		0.6739538
+ validation loss:		0.6931754
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.56
+
+Epoch 11 of 150 took 34.850s
+ training loss:		0.6755814
+ validation loss:		0.6939652
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.5
+
+Epoch 12 of 150 took 34.847s
+ training loss:		0.6640770
+ validation loss:		0.6949727
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.49
+
+Epoch 13 of 150 took 34.846s
+ training loss:		0.6800377
+ validation loss:		0.6929488
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.52
+
+Epoch 14 of 150 took 34.850s
+ training loss:		0.6720987
+ validation loss:		0.6791522
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.5800000000000001
+
+Epoch 15 of 150 took 34.854s
+ training loss:		0.6403451
+ validation loss:		0.6804779
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.61
+
+Epoch 16 of 150 took 34.846s
+ training loss:		0.6449033
+ validation loss:		0.6880714
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.5299999999999999
+
+Epoch 17 of 150 took 34.853s
+ training loss:		0.6486888
+ validation loss:		0.6876970
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.53
+
+Epoch 18 of 150 took 34.853s
+ training loss:		0.6130883
+ validation loss:		0.6880721
+ validation accuracy:		0.4000000
+ Pairwise ROC_AUCs:0.53
+
+Epoch 19 of 150 took 34.858s
+ training loss:		0.6244264
+ validation loss:		0.7015069
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.58
+
+Epoch 20 of 150 took 34.851s
+ training loss:		0.6103209
+ validation loss:		0.7080365
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.52
+
+Epoch 21 of 150 took 34.847s
+ training loss:		0.6114764
+ validation loss:		0.6885623
+ validation accuracy:		0.4500000
+ Pairwise ROC_AUCs:0.54
+
+Epoch 22 of 150 took 34.849s
+ training loss:		0.6199717
+ validation loss:		0.6928026
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.5800000000000001
+
+Epoch 23 of 150 took 34.850s
+ training loss:		0.6042134
+ validation loss:		0.7075970
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.52
+
+Epoch 24 of 150 took 34.855s
+ training loss:		0.6118110
+ validation loss:		0.6940044
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.5700000000000001
+
+Epoch 25 of 150 took 34.845s
+ training loss:		0.6232412
+ validation loss:		0.6702123
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.5800000000000001
+
+Epoch 26 of 150 took 34.849s
+ training loss:		0.5895604
+ validation loss:		0.6642952
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.6399999999999999
+
+Epoch 27 of 150 took 34.846s
+ training loss:		0.5678007
+ validation loss:		0.6745943
+ validation accuracy:		0.4500000
+ Pairwise ROC_AUCs:0.59
+
+Epoch 28 of 150 took 34.846s
+ training loss:		0.5324317
+ validation loss:		0.7016148
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.55
+
+Epoch 29 of 150 took 34.849s
+ training loss:		0.5609954
+ validation loss:		0.6626494
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.5800000000000001
+
+Epoch 30 of 150 took 34.852s
+ training loss:		0.6223517
+ validation loss:		0.6920773
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.54
+
+Epoch 31 of 150 took 34.854s
+ training loss:		0.5431037
+ validation loss:		0.6688492
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.59
+
+Epoch 32 of 150 took 34.853s
+ training loss:		0.5180135
+ validation loss:		0.6759733
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.5900000000000001
+
+Epoch 33 of 150 took 34.874s
+ training loss:		0.5396801
+ validation loss:		0.7852044
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.62
+
+Epoch 34 of 150 took 34.856s
+ training loss:		0.5271942
+ validation loss:		0.6616272
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.66
+
+Epoch 35 of 150 took 34.874s
+ training loss:		0.4689710
+ validation loss:		0.6782492
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.56
+
+Epoch 36 of 150 took 34.857s
+ training loss:		0.5054433
+ validation loss:		0.6723500
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.65
+
+Epoch 37 of 150 took 34.853s
+ training loss:		0.4767144
+ validation loss:		0.6501336
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.63
+
+Epoch 38 of 150 took 34.861s
+ training loss:		0.4372000
+ validation loss:		0.7127086
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.61
+
+Epoch 39 of 150 took 34.856s
+ training loss:		0.4718860
+ validation loss:		0.6488046
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.6100000000000001
+
+Epoch 40 of 150 took 34.854s
+ training loss:		0.4862141
+ validation loss:		0.6471712
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.62
+
+Epoch 41 of 150 took 34.852s
+ training loss:		0.4396034
+ validation loss:		0.6478322
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.5800000000000001
+
+Epoch 42 of 150 took 34.857s
+ training loss:		0.4364635
+ validation loss:		0.6598141
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.6
+
+Epoch 43 of 150 took 34.847s
+ training loss:		0.4022816
+ validation loss:		0.6327972
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.6200000000000001
+
+Epoch 44 of 150 took 34.853s
+ training loss:		0.3716687
+ validation loss:		0.7180456
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.6
+
+Epoch 45 of 150 took 34.860s
+ training loss:		0.4151195
+ validation loss:		0.6376617
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.66
+
+Epoch 46 of 150 took 34.859s
+ training loss:		0.3748474
+ validation loss:		0.6558495
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.56
+
+Epoch 47 of 150 took 34.856s
+ training loss:		0.3947243
+ validation loss:		0.6357809
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.73
+
+Epoch 48 of 150 took 34.857s
+ training loss:		0.3477024
+ validation loss:		0.7401934
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.62
+
+Epoch 49 of 150 took 34.852s
+ training loss:		0.3219663
+ validation loss:		0.7508851
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.6900000000000001
+
+Epoch 50 of 150 took 34.856s
+ training loss:		0.3179938
+ validation loss:		0.6860477
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.67
+
+Epoch 51 of 150 took 34.853s
+ training loss:		0.3432877
+ validation loss:		0.9318731
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.7
+
+Epoch 52 of 150 took 34.847s
+ training loss:		0.3540187
+ validation loss:		0.6064353
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.72
+
+Epoch 53 of 150 took 34.854s
+ training loss:		0.3607872
+ validation loss:		0.7745906
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.7
+
+Epoch 54 of 150 took 34.855s
+ training loss:		0.3942063
+ validation loss:		0.7750782
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.74
+
+Epoch 55 of 150 took 34.852s
+ training loss:		0.2802436
+ validation loss:		0.6717580
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.74
+
+Epoch 56 of 150 took 34.851s
+ training loss:		0.2728598
+ validation loss:		0.6318444
+ validation accuracy:		0.7000000
+ Pairwise ROC_AUCs:0.7
+
+Epoch 57 of 150 took 34.848s
+ training loss:		0.3210044
+ validation loss:		0.7105786
+ validation accuracy:		0.7000000
+ Pairwise ROC_AUCs:0.68
+
+Epoch 58 of 150 took 34.853s
+ training loss:		0.3788001
+ validation loss:		0.6802815
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.72
+
+Epoch 59 of 150 took 34.847s
+ training loss:		0.2039119
+ validation loss:		0.6765150
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.69
+
+Epoch 60 of 150 took 34.845s
+ training loss:		0.2157720
+ validation loss:		0.6212445
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.6599999999999999
+
+Epoch 61 of 150 took 34.849s
+ training loss:		0.2647807
+ validation loss:		0.6567727
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.69
+
+Epoch 62 of 150 took 34.849s
+ training loss:		0.2662419
+ validation loss:		0.6251663
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.69
+
+Epoch 63 of 150 took 34.854s
+ training loss:		0.3397328
+ validation loss:		0.6591473
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.72
+
+Epoch 64 of 150 took 34.850s
+ training loss:		0.3392530
+ validation loss:		0.6488471
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.73
+
+Epoch 65 of 150 took 34.851s
+ training loss:		0.2163722
+ validation loss:		0.6403276
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.7
+
+Epoch 66 of 150 took 34.848s
+ training loss:		0.2246470
+ validation loss:		0.7775064
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.76
+
+Epoch 67 of 150 took 34.854s
+ training loss:		0.2707752
+ validation loss:		0.7705796
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.76
+
+Epoch 68 of 150 took 34.852s
+ training loss:		0.2238144
+ validation loss:		0.6278993
+ validation accuracy:		0.7500000
+ Pairwise ROC_AUCs:0.72
+
+Epoch 69 of 150 took 34.853s
+ training loss:		0.1967160
+ validation loss:		0.8369124
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.67
+
+Epoch 70 of 150 took 34.852s
+ training loss:		0.2036698
+ validation loss:		0.7236232
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.71
+
+Epoch 71 of 150 took 34.861s
+ training loss:		0.2899167
+ validation loss:		0.6749927
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.71
+
+Epoch 72 of 150 took 34.852s
+ training loss:		0.1716187
+ validation loss:		0.7156074
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.7100000000000001
+
+Epoch 73 of 150 took 34.855s
+ training loss:		0.1906078
+ validation loss:		0.9670581
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.72
+
+Epoch 74 of 150 took 34.858s
+ training loss:		0.2046431
+ validation loss:		0.7168113
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.76
+
+Epoch 75 of 150 took 34.872s
+ training loss:		0.1200518
+ validation loss:		0.5965077
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.75
+
+Epoch 76 of 150 took 34.852s
+ training loss:		0.1633712
+ validation loss:		0.5610635
+ validation accuracy:		0.7000000
+ Pairwise ROC_AUCs:0.77
+
+Epoch 77 of 150 took 34.851s
+ training loss:		0.1752340
+ validation loss:		1.0452401
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.74
+
+Epoch 78 of 150 took 34.851s
+ training loss:		0.1429242
+ validation loss:		1.1119975
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.63
+
+Epoch 79 of 150 took 34.850s
+ training loss:		0.1783969
+ validation loss:		0.7984362
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.6900000000000001
+
+Epoch 80 of 150 took 34.849s
+ training loss:		0.2753159
+ validation loss:		1.1713578
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.69
+
+Epoch 81 of 150 took 34.850s
+ training loss:		0.1814797
+ validation loss:		1.0398263
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.69
+
+Epoch 82 of 150 took 34.852s
+ training loss:		0.2082708
+ validation loss:		0.6314058
+ validation accuracy:		0.7500000
+ Pairwise ROC_AUCs:0.71
+
+Epoch 83 of 150 took 34.857s
+ training loss:		0.1175168
+ validation loss:		0.6465651
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.69
+
+Epoch 84 of 150 took 34.854s
+ training loss:		0.1725151
+ validation loss:		0.7954538
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.69
+
+Epoch 85 of 150 took 34.850s
+ training loss:		0.1802408
+ validation loss:		1.3907035
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.63
+
+Epoch 86 of 150 took 34.852s
+ training loss:		0.1483087
+ validation loss:		0.7970733
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.6699999999999999
+
+Epoch 87 of 150 took 34.860s
+ training loss:		0.1729056
+ validation loss:		0.7871034
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.7000000000000001
+
+Epoch 88 of 150 took 34.853s
+ training loss:		0.0950149
+ validation loss:		0.6651832
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.69
+
+Epoch 89 of 150 took 34.852s
+ training loss:		0.1644008
+ validation loss:		0.7570110
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.67
+
+Epoch 90 of 150 took 34.850s
+ training loss:		0.1431300
+ validation loss:		0.9337512
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.6699999999999999
+
+Epoch 91 of 150 took 34.853s
+ training loss:		0.1502393
+ validation loss:		0.8133750
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.66
+
+Epoch 92 of 150 took 34.853s
+ training loss:		0.2058819
+ validation loss:		1.3350951
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.68
+
+Epoch 93 of 150 took 34.853s
+ training loss:		0.1448863
+ validation loss:		0.6477786
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.73
+
+Epoch 94 of 150 took 34.847s
+ training loss:		0.1253926
+ validation loss:		0.9117969
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.78
+
+Epoch 95 of 150 took 34.849s
+ training loss:		0.0667533
+ validation loss:		0.8386898
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.79
+
+Epoch 96 of 150 took 34.847s
+ training loss:		0.0772573
+ validation loss:		0.7354764
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.73
+
+Epoch 97 of 150 took 34.860s
+ training loss:		0.1415398
+ validation loss:		0.6360717
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.7
+
+Epoch 98 of 150 took 34.851s
+ training loss:		0.1375101
+ validation loss:		0.6649411
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.72
+
+Epoch 99 of 150 took 34.851s
+ training loss:		0.1420895
+ validation loss:		0.8564538
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.76
+
+Epoch 100 of 150 took 34.851s
+ training loss:		0.0911768
+ validation loss:		0.8457921
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.73
+
+Epoch 101 of 150 took 34.856s
+ training loss:		0.1730918
+ validation loss:		0.6343487
+ validation accuracy:		0.7000000
+ Pairwise ROC_AUCs:0.76
+
+Epoch 102 of 150 took 34.848s
+ training loss:		0.0628656
+ validation loss:		0.9726504
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.71
+
+Epoch 103 of 150 took 34.854s
+ training loss:		0.0632105
+ validation loss:		0.6702559
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.74
+
+Epoch 104 of 150 took 34.852s
+ training loss:		0.0523965
+ validation loss:		0.6346082
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.74
+
+Epoch 105 of 150 took 34.848s
+ training loss:		0.0610964
+ validation loss:		0.6090489
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.73
+
+Epoch 106 of 150 took 34.853s
+ training loss:		0.0632577
+ validation loss:		0.6165864
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.76
+
+Epoch 107 of 150 took 34.852s
+ training loss:		0.0679019
+ validation loss:		0.7972663
+ validation accuracy:		0.7000000
+ Pairwise ROC_AUCs:0.75
+
+Epoch 108 of 150 took 34.853s
+ training loss:		0.1100723
+ validation loss:		1.7959779
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.65
+
+Epoch 109 of 150 took 34.848s
+ training loss:		0.1940541
+ validation loss:		0.6986558
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.7
+
+Epoch 110 of 150 took 34.860s
+ training loss:		0.2367867
+ validation loss:		0.5583718
+ validation accuracy:		0.7500000
+ Pairwise ROC_AUCs:0.7999999999999999
+
+Epoch 111 of 150 took 34.857s
+ training loss:		0.0989324
+ validation loss:		0.5164492
+ validation accuracy:		0.8000000
+ Pairwise ROC_AUCs:0.8600000000000001
+
+Epoch 112 of 150 took 34.859s
+ training loss:		0.2370610
+ validation loss:		0.6425979
+ validation accuracy:		0.7000000
+ Pairwise ROC_AUCs:0.78
+
+Epoch 113 of 150 took 34.849s
+ training loss:		0.2359155
+ validation loss:		1.2906926
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.68
+
+Epoch 114 of 150 took 34.854s
+ training loss:		0.2412176
+ validation loss:		1.2957035
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.6900000000000001
+
+Epoch 115 of 150 took 34.848s
+ training loss:		0.0887520
+ validation loss:		0.6284806
+ validation accuracy:		0.7000000
+ Pairwise ROC_AUCs:0.7200000000000001
+
+Epoch 116 of 150 took 34.849s
+ training loss:		0.1754314
+ validation loss:		0.6565985
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.72
+
+Epoch 117 of 150 took 34.850s
+ training loss:		0.0985521
+ validation loss:		0.9513010
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.72
+
+Epoch 118 of 150 took 34.847s
+ training loss:		0.0839461
+ validation loss:		0.6802198
+ validation accuracy:		0.7500000
+ Pairwise ROC_AUCs:0.72
+
+Epoch 119 of 150 took 34.852s
+ training loss:		0.0723538
+ validation loss:		0.7855644
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.72
+
+Epoch 120 of 150 took 34.849s
+ training loss:		0.0904344
+ validation loss:		0.5751683
+ validation accuracy:		0.7500000
+ Pairwise ROC_AUCs:0.8
+
+Epoch 121 of 150 took 34.851s
+ training loss:		0.1474005
+ validation loss:		0.6548057
+ validation accuracy:		0.7000000
+ Pairwise ROC_AUCs:0.72
+
+Epoch 122 of 150 took 34.857s
+ training loss:		0.0605595
+ validation loss:		0.9240911
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.69
+
+Epoch 123 of 150 took 34.850s
+ training loss:		0.1408330
+ validation loss:		0.5877563
+ validation accuracy:		0.7500000
+ Pairwise ROC_AUCs:0.77
+
+Epoch 124 of 150 took 34.851s
+ training loss:		0.1287787
+ validation loss:		1.1157795
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.76
+
+Epoch 125 of 150 took 34.853s
+ training loss:		0.2123958
+ validation loss:		0.6979968
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.72
+
+Epoch 126 of 150 took 34.855s
+ training loss:		0.1014510
+ validation loss:		1.1756279
+ validation accuracy:		0.7000000
+ Pairwise ROC_AUCs:0.69
+
+Epoch 127 of 150 took 34.851s
+ training loss:		0.1267600
+ validation loss:		0.8480290
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.7
+
+Epoch 128 of 150 took 34.852s
+ training loss:		0.0996010
+ validation loss:		0.7948855
+ validation accuracy:		0.7500000
+ Pairwise ROC_AUCs:0.64
+
+Epoch 129 of 150 took 34.850s
+ training loss:		0.0819887
+ validation loss:		0.7332816
+ validation accuracy:		0.7000000
+ Pairwise ROC_AUCs:0.7
+
+Epoch 130 of 150 took 34.856s
+ training loss:		0.1423458
+ validation loss:		0.6593642
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.75
+
+Epoch 131 of 150 took 34.848s
+ training loss:		0.0879655
+ validation loss:		0.9645120
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.74
+
+Epoch 132 of 150 took 34.852s
+ training loss:		0.0958277
+ validation loss:		1.2080384
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.69
+
+Epoch 133 of 150 took 34.846s
+ training loss:		0.0510395
+ validation loss:		0.7193698
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.69
+
+Epoch 134 of 150 took 34.851s
+ training loss:		0.1258035
+ validation loss:		0.8638241
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.65
+
+Epoch 135 of 150 took 34.849s
+ training loss:		0.1200884
+ validation loss:		0.7373269
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.67
+
+Epoch 136 of 150 took 34.855s
+ training loss:		0.0355763
+ validation loss:		0.8256707
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.69
+
+Epoch 137 of 150 took 34.852s
+ training loss:		0.1272752
+ validation loss:		1.0167706
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.71
+
+Epoch 138 of 150 took 34.849s
+ training loss:		0.1682297
+ validation loss:		0.6466285
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.72
+
+Epoch 139 of 150 took 34.856s
+ training loss:		0.1715894
+ validation loss:		0.8768868
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.74
+
+Epoch 140 of 150 took 34.852s
+ training loss:		0.1216968
+ validation loss:		1.7778358
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.73
+
+Epoch 141 of 150 took 34.853s
+ training loss:		0.1520136
+ validation loss:		0.9425453
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.75
+
+Epoch 142 of 150 took 34.858s
+ training loss:		0.0586814
+ validation loss:		0.7906233
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.72
+
+Epoch 143 of 150 took 34.849s
+ training loss:		0.0695989
+ validation loss:		0.7973553
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.69
+
+Epoch 144 of 150 took 34.846s
+ training loss:		0.0315795
+ validation loss:		0.9196740
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.72
+
+Epoch 145 of 150 took 34.856s
+ training loss:		0.1496601
+ validation loss:		0.7807673
+ validation accuracy:		0.7000000
+ Pairwise ROC_AUCs:0.7000000000000001
+
+Epoch 146 of 150 took 34.850s
+ training loss:		0.0490043
+ validation loss:		1.0009115
+ validation accuracy:		0.5500000
+ Pairwise ROC_AUCs:0.7000000000000001
+
+Epoch 147 of 150 took 34.846s
+ training loss:		0.0876421
+ validation loss:		1.1246873
+ validation accuracy:		0.6000000
+ Pairwise ROC_AUCs:0.6900000000000001
+
+Epoch 148 of 150 took 34.849s
+ training loss:		0.1203359
+ validation loss:		1.1309675
+ validation accuracy:		0.6500000
+ Pairwise ROC_AUCs:0.65
+
+Epoch 149 of 150 took 34.849s
+ training loss:		0.1550641
+ validation loss:		1.8632849
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.67
+
+Epoch 150 of 150 took 34.847s
+ training loss:		0.1132187
+ validation loss:		2.2507564
+ validation accuracy:		0.5000000
+ Pairwise ROC_AUCs:0.67
+
+ended at 2018-04-27 01:26:50
+ 

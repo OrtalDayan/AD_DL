@@ -1,0 +1,2567 @@
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 1 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.1332695944875013
+ val_loss: 1.17426598072052
+ val_acc; 0.6
+ val_roc_auc: 0.6233766233766234
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_0/Exp_CV_1_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_0/Exp_CV_1_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 1 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.12465355383853118
+ val_loss: 0.41471380554139614
+ val_acc; 0.85
+ val_roc_auc: 1.0
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_0/Exp_CV_1_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_0/Exp_CV_1_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 2 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.0727161631298562
+ val_loss: 0.31253551109693944
+ val_acc; 0.85
+ val_roc_auc: 0.9400000000000001
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_0/Exp_CV_2_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_0/Exp_CV_2_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 3 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.1747493267680208
+ val_loss: 1.0047697903355584
+ val_acc; 0.7
+ val_roc_auc: 0.94
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_0/Exp_CV_3_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_0/Exp_CV_3_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 4 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.18606547070667148
+ val_loss: 0.4736103191971779
+ val_acc; 0.75
+ val_roc_auc: 0.8899999999999999
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_0/Exp_CV_4_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_0/Exp_CV_4_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 5 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.02388428375707008
+ val_loss: 0.6330902154246966
+ val_acc; 0.8666666666666667
+ val_roc_auc: 0.8518518518518519
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_0/Exp_CV_5_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_0/Exp_CV_5_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 1 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.038407074586333086
+ val_loss: 0.3189572477713227
+ val_acc; 0.85
+ val_roc_auc: 0.9898989898989898
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_1/Exp_CV_1_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_1/Exp_CV_1_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 2 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.12543692545344431
+ val_loss: 0.3657979650888592
+ val_acc; 0.9
+ val_roc_auc: 0.9400000000000001
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_1/Exp_CV_2_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_1/Exp_CV_2_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 1 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.029982440581079572
+ val_loss: 1.2718212932348252
+ val_acc; 0.52
+ val_roc_auc: 0.6428571428571428
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_0/Exp_CV_1_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_0/Exp_CV_1_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 3 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.12922744806855918
+ val_loss: 1.12702618050389
+ val_acc; 0.7
+ val_roc_auc: 0.8400000000000001
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_1/Exp_CV_3_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_1/Exp_CV_3_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 2 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.18312319382675923
+ val_loss: 0.8996269926428795
+ val_acc; 0.6
+ val_roc_auc: 0.77
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_0/Exp_CV_2_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_0/Exp_CV_2_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 4 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.25432958056529364
+ val_loss: 0.5693035051226616
+ val_acc; 0.7
+ val_roc_auc: 0.83
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_1/Exp_CV_4_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_1/Exp_CV_4_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 3 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.13850968776387163
+ val_loss: 1.8361264020204544
+ val_acc; 0.55
+ val_roc_auc: 0.6770833333333333
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_0/Exp_CV_3_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_0/Exp_CV_3_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 5 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.09076669721980579
+ val_loss: 0.8405445118745168
+ val_acc; 0.6666666666666666
+ val_roc_auc: 0.7592592592592593
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_1/Exp_CV_5_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_1/Exp_CV_5_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 4 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.21508759702555835
+ val_loss: 3.0806220173835754
+ val_acc; 0.5
+ val_roc_auc: 0.76
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_0/Exp_CV_4_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_0/Exp_CV_4_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 1 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.07149037493703266
+ val_loss: 1.172809161245823
+ val_acc; 0.75
+ val_roc_auc: 0.898989898989899
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_2/Exp_CV_1_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_2/Exp_CV_1_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 5 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.016315048556862166
+ val_loss: 1.6411606222391129
+ val_acc; 0.5
+ val_roc_auc: 0.22619047619047616
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_0/Exp_CV_5_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_0/Exp_CV_5_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 2 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.1316026631432275
+ val_loss: 0.4371520774438977
+ val_acc; 0.8
+ val_roc_auc: 0.8699999999999999
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_2/Exp_CV_2_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_2/Exp_CV_2_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 3 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.021691626799292863
+ val_loss: 0.37786202505230904
+ val_acc; 0.85
+ val_roc_auc: 0.9299999999999999
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_2/Exp_CV_3_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_2/Exp_CV_3_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 1 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.07420418283436447
+ val_loss: 1.1713393807411194
+ val_acc; 0.56
+ val_roc_auc: 0.538961038961039
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_1/Exp_CV_1_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_1/Exp_CV_1_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 4 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.07483372323525449
+ val_loss: 0.662022590637207
+ val_acc; 0.7
+ val_roc_auc: 0.8700000000000001
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_2/Exp_CV_4_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_2/Exp_CV_4_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 2 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.2022164508816786
+ val_loss: 0.9869787618517876
+ val_acc; 0.55
+ val_roc_auc: 0.65
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_1/Exp_CV_2_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_1/Exp_CV_2_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 5 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.09947640064638108
+ val_loss: 0.5768330755333105
+ val_acc; 0.8666666666666667
+ val_roc_auc: 0.888888888888889
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_2/Exp_CV_5_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_2/Exp_CV_5_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 3 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.09267226014344487
+ val_loss: 0.9941404685378075
+ val_acc; 0.65
+ val_roc_auc: 0.6979166666666667
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_1/Exp_CV_3_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_1/Exp_CV_3_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 1 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.1647554471778373
+ val_loss: 0.23348755529150367
+ val_acc; 0.9
+ val_roc_auc: 0.9898989898989898
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_3/Exp_CV_1_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_3/Exp_CV_1_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 4 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.02575888912542723
+ val_loss: 1.2343094870448112
+ val_acc; 0.65
+ val_roc_auc: 0.7000000000000001
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_1/Exp_CV_4_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_1/Exp_CV_4_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 2 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.07686869788449258
+ val_loss: 0.6103496499126777
+ val_acc; 0.8
+ val_roc_auc: 0.92
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_3/Exp_CV_2_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_3/Exp_CV_2_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 5 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.025549251076881774
+ val_loss: 1.6915769279003143
+ val_acc; 0.35
+ val_roc_auc: 0.3095238095238095
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_1/Exp_CV_5_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_1/Exp_CV_5_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 3 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.11242925965537627
+ val_loss: 0.4331201510503888
+ val_acc; 0.85
+ val_roc_auc: 0.94
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_3/Exp_CV_3_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_3/Exp_CV_3_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 1 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.025602733658161014
+ val_loss: 1.0551120162010192
+ val_acc; 0.48
+ val_roc_auc: 0.6298701298701299
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_2/Exp_CV_1_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_2/Exp_CV_1_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 4 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.1479194956055532
+ val_loss: 1.078116599470377
+ val_acc; 0.7
+ val_roc_auc: 0.76
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_3/Exp_CV_4_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_3/Exp_CV_4_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 2 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.11354909394867718
+ val_loss: 0.7408543080091476
+ val_acc; 0.8
+ val_roc_auc: 0.71
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_2/Exp_CV_2_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_2/Exp_CV_2_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 5 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.053837278224818874
+ val_loss: 1.5499125681817532
+ val_acc; 0.6
+ val_roc_auc: 0.8333333333333333
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_3/Exp_CV_5_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_3/Exp_CV_5_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 3 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.024879433374735527
+ val_loss: 1.2344756573438644
+ val_acc; 0.55
+ val_roc_auc: 0.6458333333333333
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_2/Exp_CV_3_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_2/Exp_CV_3_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 1 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.15453008663995813
+ val_loss: 0.128987300908193
+ val_acc; 0.9
+ val_roc_auc: 0.9898989898989898
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_4/Exp_CV_1_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_4/Exp_CV_1_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 4 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.08770953875500709
+ val_loss: 1.1177005916833878
+ val_acc; 0.65
+ val_roc_auc: 0.67
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_2/Exp_CV_4_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_2/Exp_CV_4_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 2 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.08819645078231891
+ val_loss: 0.3743513594381511
+ val_acc; 0.8
+ val_roc_auc: 0.89
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_4/Exp_CV_2_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_4/Exp_CV_2_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 5 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.04002393622067757
+ val_loss: 1.515210472047329
+ val_acc; 0.5
+ val_roc_auc: 0.5476190476190477
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_2/Exp_CV_5_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_2/Exp_CV_5_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 3 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.10345713483790557
+ val_loss: 0.6174460982438177
+ val_acc; 0.8
+ val_roc_auc: 0.94
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_4/Exp_CV_3_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_4/Exp_CV_3_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 1 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.05944826276390813
+ val_loss: 0.875255110859871
+ val_acc; 0.6
+ val_roc_auc: 0.7272727272727273
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_3/Exp_CV_1_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_3/Exp_CV_1_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 4 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.13862327605020255
+ val_loss: 1.0764457937330008
+ val_acc; 0.6
+ val_roc_auc: 0.79
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_4/Exp_CV_4_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_4/Exp_CV_4_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 2 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.10684888775722357
+ val_loss: 0.791190393269062
+ val_acc; 0.65
+ val_roc_auc: 0.8
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_3/Exp_CV_2_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_3/Exp_CV_2_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs Normal
+
+AD_vs_Normalcv_fold 5 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.11310352961299941
+ val_loss: 1.0293343861897786
+ val_acc; 0.6666666666666666
+ val_roc_auc: 0.9259259259259259
+results has been saved in files:
+./results_cnn/ad_vs_norm/rnd_state_4/Exp_CV_5_AD_vs_Normal_.txt
+./results_cnn/ad_vs_norm/rnd_state_4/Exp_CV_5_AD_vs_Normal_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 1 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.08788642786781896
+ val_loss: 1.1169390678405762
+ val_acc; 0.4666666666666667
+ val_roc_auc: 0.8
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_0/Exp_CV_1_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_0/Exp_CV_1_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 3 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.030608450790168718
+ val_loss: 1.1799646317958832
+ val_acc; 0.6
+ val_roc_auc: 0.6875
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_3/Exp_CV_3_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_3/Exp_CV_3_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 2 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.0635209788822315
+ val_loss: 1.3721172629545133
+ val_acc; 0.6
+ val_roc_auc: 0.54
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_0/Exp_CV_2_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_0/Exp_CV_2_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 4 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.12608060965430923
+ val_loss: 2.1647722870111465
+ val_acc; 0.6
+ val_roc_auc: 0.6900000000000001
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_3/Exp_CV_4_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_3/Exp_CV_4_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 3 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.12070352995457749
+ val_loss: 0.6568888425827026
+ val_acc; 0.6666666666666666
+ val_roc_auc: 0.8
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_0/Exp_CV_3_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_0/Exp_CV_3_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 5 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.0946948338241782
+ val_loss: 2.2019927203655243
+ val_acc; 0.35
+ val_roc_auc: 0.36904761904761907
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_3/Exp_CV_5_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_3/Exp_CV_5_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 4 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.05881374488429477
+ val_loss: 1.3626801868279774
+ val_acc; 0.5333333333333333
+ val_roc_auc: 0.46296296296296297
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_0/Exp_CV_4_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_0/Exp_CV_4_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 5 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.09135179019843538
+ val_loss: 0.6761661941806475
+ val_acc; 0.8
+ val_roc_auc: 0.8703703703703705
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_0/Exp_CV_5_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_0/Exp_CV_5_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 1 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.15849089963012375
+ val_loss: 0.8054309070110321
+ val_acc; 0.6
+ val_roc_auc: 0.8246753246753247
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_4/Exp_CV_1_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_4/Exp_CV_1_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 1 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.13255655875598843
+ val_loss: 0.513628214597702
+ val_acc; 0.8
+ val_roc_auc: 0.9199999999999999
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_1/Exp_CV_1_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_1/Exp_CV_1_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 2 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.09340873785549775
+ val_loss: 0.9207186922430992
+ val_acc; 0.65
+ val_roc_auc: 0.76
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_4/Exp_CV_2_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_4/Exp_CV_2_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 2 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.07664564234966581
+ val_loss: 1.1238885596394539
+ val_acc; 0.6666666666666666
+ val_roc_auc: 0.54
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_1/Exp_CV_2_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_1/Exp_CV_2_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 3 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.07627133722417057
+ val_loss: 0.7601669480403265
+ val_acc; 0.7333333333333333
+ val_roc_auc: 0.6799999999999999
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_1/Exp_CV_3_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_1/Exp_CV_3_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 3 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.0807938837679103
+ val_loss: 2.544898360967636
+ val_acc; 0.45
+ val_roc_auc: 0.6875
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_4/Exp_CV_3_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_4/Exp_CV_3_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 4 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.0555144208871449
+ val_loss: 1.1714625259240468
+ val_acc; 0.5333333333333333
+ val_roc_auc: 0.5
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_1/Exp_CV_4_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_1/Exp_CV_4_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 4 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.04578530813159887
+ val_loss: 1.4352801563218236
+ val_acc; 0.6
+ val_roc_auc: 0.6
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_4/Exp_CV_4_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_4/Exp_CV_4_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 5 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.058638553290317454
+ val_loss: 0.7766422231992086
+ val_acc; 0.8
+ val_roc_auc: 0.7777777777777779
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_1/Exp_CV_5_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_1/Exp_CV_5_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs EMCI
+
+Normal_vs_EMCIcv_fold 5 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.059916115958913
+ val_loss: 1.7292659133672714
+ val_acc; 0.5
+ val_roc_auc: 0.34523809523809523
+results has been saved in files:
+./results_cnn/norm_vs_emci/rnd_state_4/Exp_CV_5_Normal_vs_EMCI_.txt
+./results_cnn/norm_vs_emci/rnd_state_4/Exp_CV_5_Normal_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 1 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.14271624466742983
+ val_loss: 0.6141638457775116
+ val_acc; 0.7333333333333333
+ val_roc_auc: 0.7999999999999999
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_2/Exp_CV_1_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_2/Exp_CV_1_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 1 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.022813891716809434
+ val_loss: 1.3867557843526204
+ val_acc; 0.6666666666666666
+ val_roc_auc: 0.38636363636363635
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_0/Exp_CV_1_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_0/Exp_CV_1_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 2 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.22023365324871105
+ val_loss: 1.507175197203954
+ val_acc; 0.6
+ val_roc_auc: 0.48
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_2/Exp_CV_2_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_2/Exp_CV_2_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 2 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.14301127059893173
+ val_loss: 0.8808931708335876
+ val_acc; 0.6
+ val_roc_auc: 0.5599999999999999
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_0/Exp_CV_2_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_0/Exp_CV_2_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 3 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.05428998381830752
+ val_loss: 0.6916765371958414
+ val_acc; 0.8
+ val_roc_auc: 0.78
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_2/Exp_CV_3_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_2/Exp_CV_3_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 3 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.09138019346088792
+ val_loss: 1.4782217741012573
+ val_acc; 0.5333333333333333
+ val_roc_auc: 0.574074074074074
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_0/Exp_CV_3_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_0/Exp_CV_3_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 4 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.09195164796741058
+ val_loss: 1.5705968936284382
+ val_acc; 0.4666666666666667
+ val_roc_auc: 0.46296296296296297
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_2/Exp_CV_4_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_2/Exp_CV_4_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 4 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.21193389982605973
+ val_loss: 0.8454216693838438
+ val_acc; 0.6666666666666666
+ val_roc_auc: 0.74
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_0/Exp_CV_4_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_0/Exp_CV_4_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 5 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.035353671836977206
+ val_loss: 1.381970077753067
+ val_acc; 0.4666666666666667
+ val_roc_auc: 0.7777777777777778
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_2/Exp_CV_5_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_2/Exp_CV_5_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 5 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.10404707382743557
+ val_loss: 1.1182413796583812
+ val_acc; 0.5333333333333333
+ val_roc_auc: 0.6607142857142857
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_0/Exp_CV_5_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_0/Exp_CV_5_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 1 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.06608709066428921
+ val_loss: 0.7757517546415329
+ val_acc; 0.8
+ val_roc_auc: 0.8800000000000001
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_3/Exp_CV_1_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_3/Exp_CV_1_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 1 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.139632434414869
+ val_loss: 1.1513110001881917
+ val_acc; 0.4666666666666667
+ val_roc_auc: 0.45454545454545453
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_1/Exp_CV_1_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_1/Exp_CV_1_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 2 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.07870387819341639
+ val_loss: 1.5614417592684429
+ val_acc; 0.5333333333333333
+ val_roc_auc: 0.6799999999999999
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_3/Exp_CV_2_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_3/Exp_CV_2_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 2 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.056598466926846995
+ val_loss: 0.6746850262085596
+ val_acc; 0.8666666666666667
+ val_roc_auc: 0.74
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_1/Exp_CV_2_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_1/Exp_CV_2_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 3 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.1101372890213194
+ val_loss: 2.124597132205963
+ val_acc; 0.4
+ val_roc_auc: 0.7
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_3/Exp_CV_3_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_3/Exp_CV_3_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 3 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.08076226377549271
+ val_loss: 1.638314127922058
+ val_acc; 0.4666666666666667
+ val_roc_auc: 0.6111111111111112
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_1/Exp_CV_3_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_1/Exp_CV_3_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 4 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.04006957352006187
+ val_loss: 1.3514780799547832
+ val_acc; 0.6
+ val_roc_auc: 0.5185185185185185
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_3/Exp_CV_4_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_3/Exp_CV_4_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 4 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.025645599855730932
+ val_loss: 0.4235359827677409
+ val_acc; 0.8
+ val_roc_auc: 0.9
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_1/Exp_CV_4_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_1/Exp_CV_4_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 5 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.022821323965520907
+ val_loss: 0.5612532943487167
+ val_acc; 0.8
+ val_roc_auc: 0.888888888888889
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_3/Exp_CV_5_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_3/Exp_CV_5_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 1 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.15863239460370757
+ val_loss: 0.5015081117550532
+ val_acc; 0.7333333333333333
+ val_roc_auc: 0.9000000000000001
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_4/Exp_CV_1_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_4/Exp_CV_1_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 5 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.28431010847756016
+ val_loss: 1.8597910801569622
+ val_acc; 0.5333333333333333
+ val_roc_auc: 0.4642857142857143
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_1/Exp_CV_5_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_1/Exp_CV_5_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 2 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.1416401294144717
+ val_loss: 1.9799831310908
+ val_acc; 0.4666666666666667
+ val_roc_auc: 0.64
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_4/Exp_CV_2_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_4/Exp_CV_2_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 1 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.1485376953655346
+ val_loss: 2.7347844441731772
+ val_acc; 0.7333333333333333
+ val_roc_auc: 0.2727272727272727
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_2/Exp_CV_1_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_2/Exp_CV_1_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 2 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.05781411642039364
+ val_loss: 2.0266090432802835
+ val_acc; 0.4
+ val_roc_auc: 0.62
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_2/Exp_CV_2_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_2/Exp_CV_2_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 3 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.039616494638418466
+ val_loss: 0.4743009606997172
+ val_acc; 0.6666666666666666
+ val_roc_auc: 0.8400000000000001
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_4/Exp_CV_3_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_4/Exp_CV_3_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 3 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.03366638328103969
+ val_loss: 1.2956272164980571
+ val_acc; 0.5333333333333333
+ val_roc_auc: 0.7407407407407407
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_2/Exp_CV_3_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_2/Exp_CV_3_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 4 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.1320645115338266
+ val_loss: 2.5266917943954468
+ val_acc; 0.5333333333333333
+ val_roc_auc: 0.5185185185185185
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_4/Exp_CV_4_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_4/Exp_CV_4_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 4 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.23001024515057603
+ val_loss: 0.6936470121145248
+ val_acc; 0.8
+ val_roc_auc: 0.78
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_2/Exp_CV_4_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_2/Exp_CV_4_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs LMCI
+
+AD_vs_LMCIcv_fold 5 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.07234184719466914
+ val_loss: 0.6187276591857275
+ val_acc; 0.8
+ val_roc_auc: 0.8333333333333333
+results has been saved in files:
+./results_cnn/ad_vs_lmci/rnd_state_4/Exp_CV_5_AD_vs_LMCI_.txt
+./results_cnn/ad_vs_lmci/rnd_state_4/Exp_CV_5_AD_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 5 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.13267399230971932
+ val_loss: 1.3357629974683125
+ val_acc; 0.4666666666666667
+ val_roc_auc: 0.625
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_2/Exp_CV_5_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_2/Exp_CV_5_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 1 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.062413887679576875
+ val_loss: 0.9397669536992908
+ val_acc; 0.7
+ val_roc_auc: 0.6900000000000001
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_0/Exp_CV_1_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_0/Exp_CV_1_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 1 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.009227292612195015
+ val_loss: 1.5119645595550537
+ val_acc; 0.7333333333333333
+ val_roc_auc: 0.3409090909090909
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_3/Exp_CV_1_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_3/Exp_CV_1_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 2 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.0580749130807817
+ val_loss: 1.8273653276264668
+ val_acc; 0.65
+ val_roc_auc: 0.64
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_0/Exp_CV_2_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_0/Exp_CV_2_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 2 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.38807370767674665
+ val_loss: 1.2314997216065724
+ val_acc; 0.4666666666666667
+ val_roc_auc: 0.64
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_3/Exp_CV_2_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_3/Exp_CV_2_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 3 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.1469668726126353
+ val_loss: 1.0398765485733747
+ val_acc; 0.75
+ val_roc_auc: 0.71
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_0/Exp_CV_3_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_0/Exp_CV_3_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 3 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.07003495221336682
+ val_loss: 1.1854619880517323
+ val_acc; 0.5333333333333333
+ val_roc_auc: 0.6296296296296297
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_3/Exp_CV_3_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_3/Exp_CV_3_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 4 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.05946174908118943
+ val_loss: 0.8250733613967896
+ val_acc; 0.6666666666666666
+ val_roc_auc: 0.7
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_3/Exp_CV_4_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_3/Exp_CV_4_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 4 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.11611661951368053
+ val_loss: 0.4129838487133384
+ val_acc; 0.75
+ val_roc_auc: 0.9120879120879122
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_0/Exp_CV_4_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_0/Exp_CV_4_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 5 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.045289736008271575
+ val_loss: 1.194329301516215
+ val_acc; 0.6666666666666666
+ val_roc_auc: 0.6071428571428572
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_3/Exp_CV_5_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_3/Exp_CV_5_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 5 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.14386846634442918
+ val_loss: 4.086592495441437
+ val_acc; 0.35
+ val_roc_auc: 0.8214285714285714
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_0/Exp_CV_5_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_0/Exp_CV_5_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 1 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.08681820874864404
+ val_loss: 2.2150829633076987
+ val_acc; 0.3333333333333333
+ val_roc_auc: 0.45454545454545453
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_4/Exp_CV_1_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_4/Exp_CV_1_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 1 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.09757700618356466
+ val_loss: 0.826778884511441
+ val_acc; 0.6
+ val_roc_auc: 0.74
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_1/Exp_CV_1_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_1/Exp_CV_1_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 2 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.13855822452090003
+ val_loss: 1.7177670399347942
+ val_acc; 0.4
+ val_roc_auc: 0.54
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_4/Exp_CV_2_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_4/Exp_CV_2_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 3 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.021773783373646438
+ val_loss: 0.8183909257253011
+ val_acc; 0.6666666666666666
+ val_roc_auc: 0.7407407407407407
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_4/Exp_CV_3_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_4/Exp_CV_3_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 2 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.04321564889202515
+ val_loss: 1.3667466416954994
+ val_acc; 0.6
+ val_roc_auc: 0.64
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_1/Exp_CV_2_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_1/Exp_CV_2_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 4 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.1746207542407016
+ val_loss: 0.7523347015182177
+ val_acc; 0.7333333333333333
+ val_roc_auc: 0.6
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_4/Exp_CV_4_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_4/Exp_CV_4_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 3 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.11321868603117764
+ val_loss: 2.2507563871331513
+ val_acc; 0.5
+ val_roc_auc: 0.67
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_1/Exp_CV_3_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_1/Exp_CV_3_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация Normal vs LMCI
+
+Normal_vs_LMCIcv_fold 5 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.01509171751483033
+ val_loss: 1.2300225247939427
+ val_acc; 0.6
+ val_roc_auc: 0.5892857142857142
+results has been saved in files:
+./results_cnn/norm_vs_lmci/rnd_state_4/Exp_CV_5_Normal_vs_LMCI_.txt
+./results_cnn/norm_vs_lmci/rnd_state_4/Exp_CV_5_Normal_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 4 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.05408315216191113
+ val_loss: 0.9462209101766348
+ val_acc; 0.7
+ val_roc_auc: 0.868131868131868
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_1/Exp_CV_4_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_1/Exp_CV_4_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 1 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.03207512762905522
+ val_loss: 1.2821778357028961
+ val_acc; 0.55
+ val_roc_auc: 0.38095238095238093
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_0/Exp_CV_1_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_0/Exp_CV_1_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 2 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.08299627400596034
+ val_loss: 1.885474955663085
+ val_acc; 0.65
+ val_roc_auc: 0.44047619047619047
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_0/Exp_CV_2_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_0/Exp_CV_2_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 5 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.04222532222047448
+ val_loss: 0.6049577388912439
+ val_acc; 0.8
+ val_roc_auc: 0.8095238095238096
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_1/Exp_CV_5_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_1/Exp_CV_5_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 3 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.18761437002103776
+ val_loss: 0.8701972663402557
+ val_acc; 0.55
+ val_roc_auc: 0.44047619047619047
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_0/Exp_CV_3_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_0/Exp_CV_3_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 1 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.16422483655624093
+ val_loss: 0.9216023106127977
+ val_acc; 0.75
+ val_roc_auc: 0.7
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_2/Exp_CV_1_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_2/Exp_CV_1_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 4 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.10821226091745
+ val_loss: 0.6569816051051021
+ val_acc; 0.65
+ val_roc_auc: 0.7857142857142858
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_0/Exp_CV_4_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_0/Exp_CV_4_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 2 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.05523032477746407
+ val_loss: 1.6325416713953018
+ val_acc; 0.5
+ val_roc_auc: 0.61
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_2/Exp_CV_2_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_2/Exp_CV_2_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 5 random state 0_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.11761822675665219
+ val_loss: 0.6625930741429329
+ val_acc; 0.7
+ val_roc_auc: 0.5714285714285714
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_0/Exp_CV_5_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_0/Exp_CV_5_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 3 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.10745732539022962
+ val_loss: 0.8934147991240025
+ val_acc; 0.7
+ val_roc_auc: 0.81
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_2/Exp_CV_3_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_2/Exp_CV_3_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 1 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.08208051340823824
+ val_loss: 1.4961534142494202
+ val_acc; 0.45
+ val_roc_auc: 0.5714285714285714
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_1/Exp_CV_1_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_1/Exp_CV_1_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 2 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.23355408952656118
+ val_loss: 1.6480181398801506
+ val_acc; 0.7
+ val_roc_auc: 0.5119047619047619
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_1/Exp_CV_2_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_1/Exp_CV_2_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 4 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.14145977542114754
+ val_loss: 0.49531914945691824
+ val_acc; 0.85
+ val_roc_auc: 0.9120879120879122
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_2/Exp_CV_4_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_2/Exp_CV_4_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 3 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.1318112208197514
+ val_loss: 0.7108270116150379
+ val_acc; 0.75
+ val_roc_auc: 0.5595238095238095
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_1/Exp_CV_3_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_1/Exp_CV_3_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 5 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.14121331356000155
+ val_loss: 0.8868926614522934
+ val_acc; 0.75
+ val_roc_auc: 0.7261904761904762
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_2/Exp_CV_5_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_2/Exp_CV_5_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 4 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.13361024810001254
+ val_loss: 0.786517072468996
+ val_acc; 0.75
+ val_roc_auc: 0.5833333333333334
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_1/Exp_CV_4_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_1/Exp_CV_4_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 1 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.019440098525956274
+ val_loss: 0.8291329776402563
+ val_acc; 0.65
+ val_roc_auc: 0.79
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_3/Exp_CV_1_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_3/Exp_CV_1_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 5 random state 1_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.15243789355736226
+ val_loss: 1.0000421442091465
+ val_acc; 0.75
+ val_roc_auc: 0.3333333333333333
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_1/Exp_CV_5_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_1/Exp_CV_5_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 2 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.18150085524345438
+ val_loss: 2.924327234737575
+ val_acc; 0.5
+ val_roc_auc: 0.6799999999999999
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_3/Exp_CV_2_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_3/Exp_CV_2_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 1 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.29467836750501936
+ val_loss: 1.288357749581337
+ val_acc; 0.55
+ val_roc_auc: 0.48809523809523814
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_2/Exp_CV_1_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_2/Exp_CV_1_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 2 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.18163740349171514
+ val_loss: 2.496307611465454
+ val_acc; 0.4
+ val_roc_auc: 0.34523809523809523
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_2/Exp_CV_2_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_2/Exp_CV_2_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 3 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.15615419298410416
+ val_loss: 0.9177625812590122
+ val_acc; 0.6
+ val_roc_auc: 0.9
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_3/Exp_CV_3_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_3/Exp_CV_3_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 3 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.035444109312569104
+ val_loss: 1.5502805784344673
+ val_acc; 0.5
+ val_roc_auc: 0.44047619047619047
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_2/Exp_CV_3_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_2/Exp_CV_3_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 4 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.16187387909740208
+ val_loss: 0.5718061476945877
+ val_acc; 0.65
+ val_roc_auc: 0.7692307692307692
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_3/Exp_CV_4_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_3/Exp_CV_4_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 4 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.18514338430638114
+ val_loss: 0.6336141861975193
+ val_acc; 0.85
+ val_roc_auc: 0.6547619047619048
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_2/Exp_CV_4_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_2/Exp_CV_4_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 5 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.1082882699847687
+ val_loss: 0.9002752378582954
+ val_acc; 0.7
+ val_roc_auc: 0.6547619047619047
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_3/Exp_CV_5_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_3/Exp_CV_5_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 5 random state 2_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.11904180061537772
+ val_loss: 1.6908783778781071
+ val_acc; 0.7
+ val_roc_auc: 0.5595238095238095
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_2/Exp_CV_5_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_2/Exp_CV_5_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 1 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.0672521714741985
+ val_loss: 1.1577355340123177
+ val_acc; 0.65
+ val_roc_auc: 0.64
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_4/Exp_CV_1_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_4/Exp_CV_1_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 1 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.09131448868323457
+ val_loss: 1.4486662447452545
+ val_acc; 0.35
+ val_roc_auc: 0.4047619047619048
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_3/Exp_CV_1_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_3/Exp_CV_1_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 2 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.11818677474829284
+ val_loss: 1.9678508639335632
+ val_acc; 0.4
+ val_roc_auc: 0.25
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_3/Exp_CV_2_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_3/Exp_CV_2_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 2 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.15808079317212104
+ val_loss: 1.505425401031971
+ val_acc; 0.45
+ val_roc_auc: 0.62
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_4/Exp_CV_2_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_4/Exp_CV_2_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 3 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.1606436571261535
+ val_loss: 1.39178366959095
+ val_acc; 0.6
+ val_roc_auc: 0.4285714285714286
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_3/Exp_CV_3_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_3/Exp_CV_3_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 3 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.028315630198145907
+ val_loss: 0.6817157547920942
+ val_acc; 0.65
+ val_roc_auc: 0.79
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_4/Exp_CV_3_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_4/Exp_CV_3_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 4 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.20004768188421926
+ val_loss: 0.9061158923432231
+ val_acc; 0.7
+ val_roc_auc: 0.6309523809523809
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_3/Exp_CV_4_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_3/Exp_CV_4_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 4 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.05077380451063315
+ val_loss: 0.6548748780041933
+ val_acc; 0.85
+ val_roc_auc: 0.8901098901098902
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_4/Exp_CV_4_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_4/Exp_CV_4_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 5 random state 3_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.19460731139406562
+ val_loss: 0.8651239648461342
+ val_acc; 0.65
+ val_roc_auc: 0.4523809523809524
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_3/Exp_CV_5_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_3/Exp_CV_5_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 1 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.06558949864384803
+ val_loss: 1.2756605371832848
+ val_acc; 0.6
+ val_roc_auc: 0.45238095238095233
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_4/Exp_CV_1_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_4/Exp_CV_1_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация AD vs EMCI
+
+AD_vs_EMCIcv_fold 5 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.11700887308688834
+ val_loss: 2.5695970356464386
+ val_acc; 0.35
+ val_roc_auc: 0.7500000000000001
+results has been saved in files:
+./results_cnn/ad_vs_emci/rnd_state_4/Exp_CV_5_AD_vs_EMCI_.txt
+./results_cnn/ad_vs_emci/rnd_state_4/Exp_CV_5_AD_vs_EMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 2 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.3957413336770101
+ val_loss: 2.016288175713271
+ val_acc; 0.7
+ val_roc_auc: 0.38095238095238093
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_4/Exp_CV_2_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_4/Exp_CV_2_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 3 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.049233332955433674
+ val_loss: 2.127403035759926
+ val_acc; 0.35
+ val_roc_auc: 0.45238095238095244
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_4/Exp_CV_3_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_4/Exp_CV_3_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 4 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.048008671340843044
+ val_loss: 1.293105848133564
+ val_acc; 0.5
+ val_roc_auc: 0.6904761904761906
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_4/Exp_CV_4_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_4/Exp_CV_4_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
+
+ классификация EMCI vs LMCI
+
+EMCI_vs_LMCIcv_fold 5 random state 4_
+adam, lr=0.000027
+ final results are:
+ tr_loss: 0.13506870592633882
+ val_loss: 1.013213261961937
+ val_acc; 0.5
+ val_roc_auc: 0.6190476190476191
+results has been saved in files:
+./results_cnn/emci_vs_lmci/rnd_state_4/Exp_CV_5_EMCI_vs_LMCI_.txt
+./results_cnn/emci_vs_lmci/rnd_state_4/Exp_CV_5_EMCI_vs_LMCI_.png
+
+ ___________________ 
+
+
